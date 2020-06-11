@@ -1,4 +1,10 @@
 __pycache__
+*.shp
+*.dbf
 .ipynb*
-.venv
+.covid_tracker
 .vscode
+.temp*
+.venv
+Covid-19 North Devon Tracker.ipynb
+data/
